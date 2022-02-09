@@ -1,0 +1,53 @@
+/* General */
+html {
+    background-color: aliceblue;
+}
+body {
+    font-family: verdana, arial, sans-serif; 
+    font-size: 14px;
+    margin: auto;
+    text-align: center;
+}
+
+/* Contenido */
+h1 {
+    font-size: 20px; 
+    font-weight: bold; 
+    color: #0066CC;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+h2 {
+    font-size: 14px; 
+    font-weight: bold; 
+    color: black;
+    margin-left: 15px;
+}
+
+/* Formulario */
+form {
+    margin-left: 15px;
+}
+.error {
+    color: red;
+}
+
+/* Footer */
+#footer {
+    height: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+#footer .red {
+    color: red;
+}
+
+#footer a {
+    text-decoration: none;
+    color: yellow;
+}
